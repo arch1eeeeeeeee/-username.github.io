@@ -16,3 +16,5 @@
  **Frontend**  |HTML5, CSS3, JavaScript |
  **Базы данных**|PostgreSQL, Sql, Redis |
  **Инструменты**| Git, VS code, foxpro9, Figma, |
+
+https://github.com/VanBilliDark/Seven.git
